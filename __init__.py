@@ -1,1 +1,1 @@
-# VBCUA backend package
+# VBCUA tests package
